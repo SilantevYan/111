@@ -1,7 +1,7 @@
 # Projects I've done
  
 
-<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<center><h1>Yandex.Practicum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
 Repository containing portfolio of data science projects completed by <a href="https://akylson.com">Ian Silantev</a> during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
