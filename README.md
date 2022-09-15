@@ -1,6 +1,3 @@
-# Projects I've done
- 
-
 <center><h1>Yandex.Practicum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
