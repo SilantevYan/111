@@ -1,7 +1,7 @@
 <center><h1>Yandex.Practicum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
-Repository containing portfolio of data science projects completed by <a href="https://akylson.com">Ian Silantev</a> during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
+Repository containing portfolio of data science projects completed by Ian Silantev during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
 Presented in the form of iPython Notebooks and readme markdown files. <br>
 <br>
   
@@ -33,7 +33,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
+    <td><a>Car price prediction</a></td>
     <td>Trained the Machine Learning model to determine the market value of the car.</td>
     <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
