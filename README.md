@@ -43,7 +43,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
   </tr>
   <tr>
-    <td><a>Development of new oil fields</a></td>
+    <td><a>Profitable drilling oil spots</a></td>
     <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
     <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
