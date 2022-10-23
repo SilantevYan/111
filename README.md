@@ -53,7 +53,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a>Classifying profitable plan for a telecom company</a></td>
+    <td><a>Tariff recommendation system</a></td>
     <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
     <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
