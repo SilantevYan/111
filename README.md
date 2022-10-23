@@ -13,7 +13,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Description</td>
     <td width=20%>Used libraries</td>
   </tr>
-    <td><a>Shop_client_age_determination</a></td>
+    <td><a>Shop client age determination</a></td>
     <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
     <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
   <tr>
