@@ -27,7 +27,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
   <tr>
-    <td><a>Car price prediction</a></td>
+    <td><a>Car price determination</a></td>
     <td>Trained the Machine Learning model to determine the market value of the car.</td>
     <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
