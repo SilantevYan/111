@@ -32,7 +32,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
   <tr>
-    <td><a>The Algorithm for data protection</a></td>
+    <td><a>Personal information security</a></td>
     <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
     <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
