@@ -37,7 +37,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
   <tr>
-    <td><a>Machine Learning Model for a metalworking enterprise</a></td>
+    <td><a>Gold recovery process optimization</a></td>
     <td>Developed a model predicting the recovery rate of gold from gold ore.
 The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
