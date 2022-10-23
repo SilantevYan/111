@@ -22,7 +22,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
   <tr>
-    <td><a>Predicting taxi trips</a></td>
+    <td><a>Prediction of Taxi Orders</a></td>
     <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
