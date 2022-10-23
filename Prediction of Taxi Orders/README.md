@@ -8,7 +8,7 @@ To attract more drivers during the peak period, you need to predict the number o
 
 # **Field**
 
-Time-series, Machine learning, predictions, taxi
+Time-series, Machine learning, predictions, taxi orders
 
 # **Instruments**
 
