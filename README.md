@@ -81,7 +81,7 @@ The model helped to optimize production in order not to launch a plant with unpr
 </td>
   </tr>
   <tr>
-    <td><a>Yandex Music</a></td>
+    <td><a>Music taste analysis</a></td>
     <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
     <td>Python, Pandas, Numpy</td>
   </tr>
