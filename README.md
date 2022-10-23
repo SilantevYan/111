@@ -75,7 +75,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
    <tr>
-  <td><a>Research on the reliability of borrowers</a></td>
+  <td><a>Borrower reliability study</a></td>
     <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
     <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
 </td>
