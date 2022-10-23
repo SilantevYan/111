@@ -58,7 +58,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
   <tr>
-  <td><a>Patterns that determine the success of game platforms.</a></td>
+  <td><a>Game industry research</a></td>
     <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
 </td>
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
