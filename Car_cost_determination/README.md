@@ -1,4 +1,4 @@
-# Car_cost_determination
+# Car_cost_prediction
  Using different regression models I made model which determines cars' cost
 # Задача
 Разработка системы рекомендации стоимости автомобиля на основе его описания
