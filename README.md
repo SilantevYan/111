@@ -48,7 +48,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
   <tr>
-    <td><a>Bank Churn prediction</a></td>
+    <td><a>Banks client churn rate</a></td>
     <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
