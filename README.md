@@ -70,7 +70,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
   </tr>
      <tr>
-  <td><a>Real estate market analysis</a></td>
+  <td><a>Apartment research analysis</a></td>
     <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
     <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
